@@ -1,1 +1,2 @@
-# Birthday-Wish-App
+# Birthday Wish App
+A simple birthday wishing app.
